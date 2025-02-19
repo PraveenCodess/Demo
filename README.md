@@ -10,6 +10,4 @@ next modification
 git pull
 git push
 git push
-ece
-ece
-ece
+
