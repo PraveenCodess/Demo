@@ -7,3 +7,4 @@ Testing of Git
 <br>
 next modification
 <br>
+git pull
