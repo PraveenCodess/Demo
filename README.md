@@ -8,3 +8,4 @@ Testing of Git
 next modification
 <br>
 git pull
+git push
